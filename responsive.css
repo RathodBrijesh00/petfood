@@ -1,0 +1,29 @@
+@media only screen and (max-width: 600px) {
+    .carousel-item{
+
+        background-position: center !important;
+    }
+    nav{
+        width: 100%;
+        position: fixed !important;
+        bottom: 0 !important;
+        z-index: 111111 !important;
+        background-color: #5453544e !important;
+    }
+
+}
+@media only screen and (max-width: 500px) {
+    .carousel-item{
+
+        background-position: center !important;
+    }
+    nav{
+        width: 100%;
+        position: fixed !important;
+        bottom: -20% !important;
+        z-index: 111111 !important;
+        background-color: #5453544e !important;
+    }
+
+
+}

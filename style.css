@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+.nav-link{
+
+    color: white !important;
+    transition: .3s all linear;
+}
+.nav-link:hover{
+
+    color: yellow !important;
+    transition: .3s all linear;
+}
+.mainheight{
+
+    min-height: 100vh;
+}
+
+body{
+    background-color: white;
+}
+
+.cc{
+
+    transition: .3s all linear;
+}
+.cc:hover{
+    scale: 1.1;
+    transition: .3s all linear;
+}
+.card-1-fourth{
+
+    transition: .3s all linear;
+}
+.card-1-fourth:hover{
+    scale: 1.01;
+    transition: .3s all linear;
+}
+.cc2{
+    color: black;
+    transition: .3s all linear;
+}
+.cc2:hover{
+    color: yellow;
+    transition: .3s all linear;
+}
+
+.card-1-third{
+    background: url(dog-food.webp);
+    background-size: cover;
+    transition: .3s all linear;
+}
+
+.card-2-third{
+    background: url(cat-food.webp);
+    background-size: cover;
+    transition: .3s all linear;
+}
+
+.mybutn{
+
+    border: none;
+    color: white;
+    background-color: #6e1a62;
+    border-radius: 14px;
+    transition: .3s all linear;
+}
+.mybutn:hover{
+
+    border: none;
+    color: white;
+    background-color: #af1b9905;
+    border-radius: 14px;
+    transition: .3s all linear;
+}
+.icun{
+
+    color: rgb(89, 89, 89) !important;
+    transition: .3s all linear;
+}
+.icun:hover{
+
+    color: yellow !important;
+    transition: .3s all linear;
+}
